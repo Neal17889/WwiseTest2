@@ -1,0 +1,55 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1283595239",
+    "Type": "User",
+    "GUID": "{E5A17657-1C6F-4F26-8552-2484AC64E820}",
+    "Language": "SFX",
+    "Hash": "{807EF5E6-C2DD-95F8-D689-DDED33648223}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\bgmBank",
+    "ShortName": "bgmBank",
+    "Path": "bgmBank.bnk",
+    "Media": [
+     {
+      "Id": "819626024",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "bgm-map01.wav",
+      "CachePath": "C3/{C352AD1C-290B-65AC-6E41-0D7FA283945D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "412724365",
+      "Name": "bgm",
+      "ObjectPath": "\\Events\\Default Work Unit\\bgm",
+      "GUID": "{6C1D7426-23EC-4DF9-B7CB-AD0D69B4CC03}",
+      "DurationType": "OneShot",
+      "DurationMin": "56.004738",
+      "DurationMax": "56.004738",
+      "MediaRefs": [
+       {
+        "Id": "819626024"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1064251295",
+      "Name": "FX_Music_RTPC",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\FX_Music_RTPC",
+      "GUID": "{00CB7057-B103-4904-8815-03EE8AF993B3}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1D7AD135-4A7F-95CA-2037-6C7C17F47AA1}"
+ }
+}

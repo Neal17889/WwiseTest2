@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	412724365	bgm			\Default Work Unit\bgm	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1064251295	FX_Music_RTPC			\Default Work Unit\FX_Music_RTPC	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	819626024	bgm-map01	D:\Wwise\Wwise_Projects\MyFirstTest\.cache\C3\{C352AD1C-290B-65AC-6E41-0D7FA283945D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\bgm-map01		9879332
+
